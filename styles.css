@@ -1,0 +1,129 @@
+body {
+font-family: 'Roboto', sans-serif;
+font-family: 'Merriweather Sans', sans-serif;
+font-family: 'Bitter', serif;
+background-color: whitesmoke;
+}
+
+.h1 {
+    text-align: center;
+    background-color: #179f08;
+    border-radius: 10px;
+    color: white;
+    border: 2px solid black;
+}
+h2 {
+    text-align: center;
+    background-color: #179f08;
+    border-radius: 10px; 
+    color: white;
+    border: 2px solid black; 
+}
+.container {
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 30px; 
+    margin:30px auto; 
+}
+.color-container {
+    width: 100%;  
+}
+.color-panel { 
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 5px auto;
+    border-radius: 10px;
+    min-height: 100px;
+    border: 2px solid black;
+  }
+  .red {
+      background-color: #FF0000;
+      color: white;
+      font-family: 'Roboto', sans-serif;
+  }
+  .dark-red {
+      background-color: #8B0000;
+      color: white;
+      font-family: 'Roboto', sans-serif;
+  }
+  .fire-brick {
+    background-color: #B22222;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+  }
+  .yellow {
+      background-color: #FFFF00;
+      color: black;
+      font-family: 'Bitter', serif;
+  }
+  .khaki {
+      background-color: #F0E68C;
+      color: black;
+      font-family: 'Bitter', serif;
+  }
+  .gold {
+      background-color: #FFD700;
+      color: black;
+      font-family: 'Bitter', serif;
+  }
+  .blue {
+      background-color: #0000FF;
+      color: white;
+      font-family: 'Merriweather Sans', sans-serif;
+  }
+  .navy {
+      background-color: #00008B;
+      color: white;
+      font-family: 'Merriweather Sans', sans-serif;
+  }
+  .skyblue {
+      background-color: #87CEEB;
+      color: white;
+      font-family: 'Merriweather Sans', sans-serif;
+  }
+  .font-panel {
+    width: 45%;
+    display: inline-block;
+  }
+  .font-label {
+      font-size: 30px;
+      text-decoration: underline;
+  }
+  .regular {
+      font-style: normal;
+  }
+  .italic {
+      font-style: italic;
+  }
+  .bold {
+      font-weight: 700;
+  }
+  .roboto {
+      font-family: 'Roboto', sans-serif;
+  }
+  .bitter {
+      font-family: 'Bitter', serif;
+  }
+.merriweather-sans {
+    font-family: 'Merriweather Sans', sans-serif;
+}
+.text-panel h1 {
+    font-weight: 700;
+    font-size: 40px;
+    font-family: 'Roboto', sans-serif;
+}
+.text-panel h2 {
+    font-weight: 400px;
+    font-size: 18px;
+    text-align: left;
+    background-color: whitesmoke;
+    color: black;
+    font-family: 'Bitter', serif;
+    border: 2px solid whitesmoke;
+}
+.text-panel p {
+    font-weight: 400px;
+    font-size: 14px;
+    font-family: 'Merriweather Sans', sans-serif;
+}
